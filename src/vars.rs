@@ -11,7 +11,7 @@ pub fn run() {
     const ID: i32 = 001;
     println!("{}", ID);
 
-    let (newName, newAge) = ("hello", 12);
+    let (new_name, new_age) = ("hello", 12);
 
-    println!("{} is {}", newName, newAge);
+    println!("{} is {}", new_name, new_age);
 }
