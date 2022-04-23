@@ -1,4 +1,5 @@
 mod print;
+mod arrays;
 mod types;
 mod vars;
 
@@ -7,5 +8,7 @@ fn main() {
 
     // vars::run();
 
-    types::run();
+    // types::run();
+
+    arrays::run();
 }
